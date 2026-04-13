@@ -143,8 +143,3 @@ How to use this template
 
 ---
 
-If you want, I can:
-- convert your filled template rows into an OpenAPI YAML (one endpoint or whole set), or
-- create a ready-to-share spreadsheet file and attach it to this repo.
-
-File created: BA templates file with OpenAPI snippet and stakeholder input template.

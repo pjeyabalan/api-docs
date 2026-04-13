@@ -116,9 +116,3 @@ Short BA checklist to follow during or after the demo
 4. Which status codes are used and what do they mean in business terms?
 5. Is the API idempotent for the operations you are showing?
 
-Follow-ups I can provide
-------------------------
-- A 1-page slide or printable checklist tailored for your team meetings.
-- A small custom OpenAPI spec (orders/customers) that mirrors your business scenario so the BA sees domain-specific fields.
-
-File created: a step-by-step Petstore demo script along with curl commands and BA talking points.

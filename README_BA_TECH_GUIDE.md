@@ -122,9 +122,3 @@ Practical tips
 - Keep the BA draft simple: a table or spreadsheet is fine to start; developers will convert to OpenAPI.
 - Save the spec in Git (PRs are the easiest way to review and approve changes).
 
-Next steps I can help with
--------------------------
-- Turn your endpoint table into a minimal OpenAPI 3.0 YAML you can paste into Swagger Editor.
-- Produce a one-page checklist PDF or a slide you can use in stakeholder meetings.
-
-File created: BA technical guide with checklists, acceptance criteria templates, and communication snippets.
